@@ -1,3 +1,5 @@
+This is the work produced from following along Jumpstart Lab's Blogger 2 tutorial found at http://tutorials.jumpstartlab.com/projects/blogger.html
+
 # README
 
 This README would normally document whatever steps are necessary to get the
